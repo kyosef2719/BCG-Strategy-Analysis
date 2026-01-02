@@ -3,7 +3,7 @@
 **Status:** Completed (BCG Virtual Experience 2025)
 
 ## 🎯 Business Objective
-The goal of this analysis was to advise a global client on their marketing spend optimization. The client needed to know which specific channel (Email, Instagram, or Webinar) was most effective at acquiring **New Customers** to maximize their ROI.
+The goal of this analysis was to advise a global client on their marketing spend optimization. The client needed to know which specific channel (Email, Instagram, or Web Banner) was most effective at acquiring **New Customers** to maximize their ROI.
 
 ## 📊 The Challenge
 With multiple campaigns running simultaneously, the client faced "data noise." They needed to move beyond vanity metrics (likes/clicks) and identify actual **Sales Revenue** attributed to specific new customer segments.
